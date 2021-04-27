@@ -10,4 +10,5 @@ How you can use it :
 * Button Load -  Upload any photo from your device to alter it using the filrers.
 * Button Save - Save your photo.
 
-# Feel free to try it 
+# Feel free to try it  
+## [Click here](https://spolienko.github.io/photo-filter/photo-filter/ "Link")
